@@ -8,7 +8,7 @@ Storing data in MongoDb and retrieving it using NodeJs and expressJs and Creatin
 
 ## Database Config
 
-![database.config.js](https://github.com/zuhairabs/nodejs_assign/blob/master/img/carbon%20.png)
+![database.config.js](https://github.com/zuhairabs/nodejs_assign/blob/master/img/carbon.png)
 
 ## models/Movie.js
 
